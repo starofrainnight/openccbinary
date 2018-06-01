@@ -6,17 +6,8 @@ OpenCC Binary
 .. image:: https://img.shields.io/pypi/v/openccbinary.svg
         :target: https://pypi.python.org/pypi/openccbinary
 
-.. image:: https://img.shields.io/travis/starofrainnight/openccbinary.svg
-        :target: https://travis-ci.org/starofrainnight/openccbinary
-
-.. image:: https://readthedocs.org/projects/openccbinary/badge/?version=latest
-        :target: https://openccbinary.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-.. image:: https://pyup.io/repos/github/starofrainnight/openccbinary/shield.svg
-     :target: https://pyup.io/repos/github/starofrainnight/openccbinary/
-     :alt: Updates
-
+.. image:: https://ci.appveyor.com/api/projects/status/xfnhhri3prqxrshx?svg=true
+        :target: https://ci.appveyor.com/project/starofrainnight/openccbinary
 
 OpenCC's binaries that support install from pypi
 
