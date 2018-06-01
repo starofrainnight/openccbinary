@@ -5,8 +5,6 @@
 
 import pytest
 
-from click.testing import CliRunner
-
 
 def empty_test():
     pass
