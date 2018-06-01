@@ -6,5 +6,5 @@
 import pytest
 
 
-def empty_test():
-    pass
+def test_empty():
+    assert True
