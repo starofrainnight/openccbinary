@@ -41,7 +41,7 @@ setup(
     install_requires=install_requires,
     license="Apache Software License",
     zip_safe=False,
-    keywords='openccbinary',
+    keywords='opencc',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
