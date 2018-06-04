@@ -11,15 +11,24 @@ OpenCC Binary
 
 OpenCC's binaries that support install from pypi
 
+The windows binary was compile from `My OpenCC Fork
+<https://github.com/starofrainnight/openccbinary/>`_ on appveyor.
 
-* Free software: Apache-2.0
-* Documentation: https://openccbinary.readthedocs.io.
 
-
-Features
+Usage
 --------
 
-* TODO
+::
+
+    import openccbinary as occbin
+
+    # Output the OpenCC's executable path
+    print(occbin.executable)
+
+License
+--------
+
+Apache-2.0
 
 Credits
 ---------
