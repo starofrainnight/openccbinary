@@ -24,7 +24,7 @@ tests_requires = [
 
 setup(
     name='openccbinary',
-    version='0.1.0',
+    version='0.1.1',
     description="OpenCC's binaries that support install from pypi",
     long_description=long_description,
     author="Hong-She Liang",
