@@ -12,7 +12,7 @@ OpenCC Binary
 OpenCC's binaries that support install from pypi
 
 The windows binary was compile from `My OpenCC Fork
-<https://github.com/starofrainnight/openccbinary/>`_ on appveyor.
+<https://github.com/starofrainnight/OpenCC/>`_ on appveyor.
 
 
 Usage
